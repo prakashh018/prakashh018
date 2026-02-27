@@ -1,11 +1,9 @@
 # Hi, I'm Natesha Prakash B S  
 
-### Java Backend Developer | Data Analytics Enthusiast | AI & DS Student  
+### Java Developer | Data Analytics Enthusiast | AI & DS Student  
 
 B.Tech – Artificial Intelligence and Data Science (2023–2027)  
 Sri Krishna College of Engineering and Technology  
-CGPA: 8.27  
-
 ---
 
 ## Connect With Me  
@@ -85,13 +83,6 @@ Developed AI-based real-time depth estimation prototype using MiDaS model.
 Processed live camera feed using OpenCV and delivered within 24 hours.  
 
 Tech Stack: Python, OpenCV, Deep Learning  
-
----
-
-## GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakashh018&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashh018&layout=compact&hide_border=true)
 
 ---
 
